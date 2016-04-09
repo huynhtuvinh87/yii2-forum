@@ -1,0 +1,21 @@
+{
+    "name": "huynhtuvinh87/yii2-forum",
+    "description": "Forum module",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension"],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Huynh Tu Vinh",
+            "email": "huynhtuvinh87@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "huynhtuvinh87\\forum\\": ""
+        }
+    }
+}
